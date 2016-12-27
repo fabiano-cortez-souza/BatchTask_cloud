@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<orchestrator>
+	<connection>
+		<param name="name">teste</param>
+		<param name="type">jdbc</param>
+		<param name="driver">oracle.jdbc.driver.OracleDriver</param>
+		<param name="string">jdbc:oracle:thin:@//ex04-scan.nextel.com.br:1521/PNXTL08</param>
+		<param name="user">prod</param>
+		<param name="pass">tempo20</param>
+	</connection>
+</orchestrator>

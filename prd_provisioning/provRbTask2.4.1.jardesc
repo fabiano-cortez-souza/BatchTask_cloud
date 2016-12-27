@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="prd_provisioning/provRbTask2.4.1.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/prd_provisioning/provRbTask2.4.1.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=prd_provisioning/src"/>
+        <file path="/prd_provisioning/MANIFEST.MF"/>
+        <file path="/prd_provisioning/.classpath"/>
+        <file path="/prd_provisioning/.project"/>
+        <folder path="/prd_provisioning/connection"/>
+    </selectedElements>
+</jardesc>

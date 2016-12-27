@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Leandro/scripts/.prd_it_provisioning/src/prd_provisioning.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/prd_provisioning/export.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=prd_provisioning/src&lt;com.tratamento.vmd{Tratamento.java[Tratamento" manifestLocation="/prd_provisioning/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/prd_provisioning/lib"/>
+        <javaElement handleIdentifier="=prd_provisioning/src"/>
+        <file path="/prd_provisioning/MANIFEST.MF"/>
+        <file path="/prd_provisioning/.classpath"/>
+        <file path="/prd_provisioning/.project"/>
+    </selectedElements>
+</jardesc>
